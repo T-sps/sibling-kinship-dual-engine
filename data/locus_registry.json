@@ -1,0 +1,157 @@
+{
+  "_README": "从 GB/T 43641-2024 附录逐座录入的 19 个必检 STR 基因座。每个条目在 source_clause 标注国标条款/页码；录入并双人交叉核对后 verified=true。",
+  "loci": [
+    {
+      "name": "vWA",
+      "required": true,
+      "type": "STR",
+      "chrom": "12p13.31",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D21S11",
+      "required": true,
+      "type": "STR",
+      "chrom": "21q21.1",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D18S51",
+      "required": true,
+      "type": "STR",
+      "chrom": "18q21.33",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D5S818",
+      "required": true,
+      "type": "STR",
+      "chrom": "5q23.2",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D7S820",
+      "required": true,
+      "type": "STR",
+      "chrom": "7q21.11",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D13S317",
+      "required": true,
+      "type": "STR",
+      "chrom": "13q31.1",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D16S539",
+      "required": true,
+      "type": "STR",
+      "chrom": "16q24.1",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "FGA",
+      "required": true,
+      "type": "STR",
+      "chrom": "4q28.2",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D8S1179",
+      "required": true,
+      "type": "STR",
+      "chrom": "8q24.13",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D3S1358",
+      "required": true,
+      "type": "STR",
+      "chrom": "3p21.31",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "CSF1PO",
+      "required": true,
+      "type": "STR",
+      "chrom": "5q33.1",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "TH01",
+      "required": true,
+      "type": "STR",
+      "chrom": "11p15.5",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "TPOX",
+      "required": true,
+      "type": "STR",
+      "chrom": "2p25.3",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "Penta_E",
+      "required": true,
+      "type": "STR",
+      "chrom": "15q26.2",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "Penta_D",
+      "required": true,
+      "type": "STR",
+      "chrom": "21q22.3",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D2S1338",
+      "required": true,
+      "type": "STR",
+      "chrom": "2q35",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D19S433",
+      "required": true,
+      "type": "STR",
+      "chrom": "19q12",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D12S391",
+      "required": true,
+      "type": "STR",
+      "chrom": "12p13.2",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    },
+    {
+      "name": "D6S1043",
+      "required": true,
+      "type": "STR",
+      "chrom": "6q15",
+      "verified": false,
+      "source_clause": "GB/T 43641-2024 第X章，第Y页"
+    }
+  ]
+}

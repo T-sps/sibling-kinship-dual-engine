@@ -1,0 +1,6 @@
+{
+  "_README": "CIBS 判定阈值表，按有效基因座数 n 索引。从 GB/T 43641-2024 附录录入。约定：CIBS>=support_ge 为支持全同胞；no_support_le<=CIBS<support 为不支持；区间内为无法判断。",
+  "by_n_loci": {
+    "_example_n13": { "support_ge": 35, "undetermined_range": [28, 34], "no_support_le": 27 }
+  }
+}
